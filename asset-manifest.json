@@ -1,13 +1,13 @@
 {
-  "main.css": "/reactHWrepiceapp/static/css/main.2c3d880b.chunk.css",
-  "main.js": "/reactHWrepiceapp/static/js/main.bafa15d0.chunk.js",
-  "main.js.map": "/reactHWrepiceapp/static/js/main.bafa15d0.chunk.js.map",
-  "static/js/1.af2c9dd9.chunk.js": "/reactHWrepiceapp/static/js/1.af2c9dd9.chunk.js",
-  "static/js/1.af2c9dd9.chunk.js.map": "/reactHWrepiceapp/static/js/1.af2c9dd9.chunk.js.map",
-  "runtime~main.js": "/reactHWrepiceapp/static/js/runtime~main.804933ca.js",
-  "runtime~main.js.map": "/reactHWrepiceapp/static/js/runtime~main.804933ca.js.map",
-  "static/css/main.2c3d880b.chunk.css.map": "/reactHWrepiceapp/static/css/main.2c3d880b.chunk.css.map",
-  "index.html": "/reactHWrepiceapp/index.html",
-  "precache-manifest.9188198a026e21481464dd6fe076e00a.js": "/reactHWrepiceapp/precache-manifest.9188198a026e21481464dd6fe076e00a.js",
-  "service-worker.js": "/reactHWrepiceapp/service-worker.js"
+  "main.css": "/reactHWapp/static/css/main.47e819bf.chunk.css",
+  "main.js": "/reactHWapp/static/js/main.9b5cd60c.chunk.js",
+  "main.js.map": "/reactHWapp/static/js/main.9b5cd60c.chunk.js.map",
+  "static/js/1.af2c9dd9.chunk.js": "/reactHWapp/static/js/1.af2c9dd9.chunk.js",
+  "static/js/1.af2c9dd9.chunk.js.map": "/reactHWapp/static/js/1.af2c9dd9.chunk.js.map",
+  "runtime~main.js": "/reactHWapp/static/js/runtime~main.00b9b2d5.js",
+  "runtime~main.js.map": "/reactHWapp/static/js/runtime~main.00b9b2d5.js.map",
+  "static/css/main.47e819bf.chunk.css.map": "/reactHWapp/static/css/main.47e819bf.chunk.css.map",
+  "index.html": "/reactHWapp/index.html",
+  "precache-manifest.7ec5aaca4a16bbb85aa0d91ca7a61628.js": "/reactHWapp/precache-manifest.7ec5aaca4a16bbb85aa0d91ca7a61628.js",
+  "service-worker.js": "/reactHWapp/service-worker.js"
 }
